@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "2c31da47",
+   "id": "d1215aeb",
    "metadata": {},
    "source": [
     "# Ch. 1 Exercises\n",
@@ -12,7 +12,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "94afc2f4",
+   "id": "f2df29f5",
    "metadata": {},
    "source": [
     "## Problem 1"
@@ -21,7 +21,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c68d2a60",
+   "id": "a13c9e0f",
    "metadata": {},
    "outputs": [
     {
@@ -39,7 +39,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "8abfcba2",
+   "id": "49bec9df",
    "metadata": {},
    "outputs": [
     {
@@ -59,7 +59,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "0c61fc3b",
+   "id": "42f20878",
    "metadata": {},
    "outputs": [
     {
@@ -84,7 +84,7 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "3de3e814",
+   "id": "09a5715c",
    "metadata": {},
    "outputs": [
     {
@@ -106,7 +106,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2a62d6b9",
+   "id": "9d9289a0",
    "metadata": {},
    "source": [
     "## Problem 3"
@@ -114,7 +114,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "aa30ab21",
+   "id": "ecc988c0",
    "metadata": {},
    "source": [
     "## Convert these decimal numbers to binary\n",
@@ -133,7 +133,7 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "61ea1835",
+   "id": "f61f2c1f",
    "metadata": {},
    "outputs": [
     {
@@ -151,7 +151,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "e6e24533",
+   "id": "6e61fa43",
    "metadata": {},
    "outputs": [
     {
@@ -169,7 +169,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "9b190cde",
+   "id": "85c6b7df",
    "metadata": {},
    "outputs": [
     {
@@ -187,7 +187,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "9f7426c3",
+   "id": "63e6972e",
    "metadata": {},
    "outputs": [
     {
@@ -204,7 +204,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "2114dcc6",
+   "id": "39f7a212",
    "metadata": {},
    "source": [
     "You can also use the bin() and int() functions to change a decimal number to binary, or binary to a decimal number, respectively. "
@@ -212,7 +212,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "368e4415",
+   "id": "2f599056",
    "metadata": {},
    "source": [
     "## Problem 4"
@@ -220,7 +220,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "7f6e3501",
+   "id": "ed5c846a",
    "metadata": {},
    "source": [
     "## Convert binary to decimal numbers"
@@ -228,7 +228,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "cf0206b5",
+   "id": "276f9229",
    "metadata": {},
    "source": [
     "1101 = 00001101 = 8 + 4 + 1 = 13\n",
@@ -243,7 +243,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "965e007d",
+   "id": "2af05366",
    "metadata": {},
    "outputs": [],
    "source": []
