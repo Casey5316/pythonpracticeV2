@@ -1,0 +1,10 @@
+Student name: Kevin
+Math: 74
+Science: 82
+English: 58
+Student average: 71.33
+Student name: Casey
+Math: 75
+Science: 88
+English: 91
+Student average: 84.67
