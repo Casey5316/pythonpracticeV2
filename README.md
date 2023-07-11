@@ -1,2 +1,0 @@
-# pythonpractice
- Learning
