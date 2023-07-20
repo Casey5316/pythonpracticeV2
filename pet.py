@@ -44,4 +44,4 @@ class Pet:
     
     
     def __str__(self):
-        return f'{self.__name} is a {self.__age} year old {self.__animal_type}'
+        return f'{self.__name} is a {self.__age} year old {self.__type}'
