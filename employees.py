@@ -61,3 +61,36 @@ class ProductionWorker(Employee):
     
     def get_wage(self):
         return self.__wage
+    
+    
+    
+    
+class ShiftSupervisor(Employee):
+    def __init__(self, name, number, salary, prod_bonus):
+        self.__name = name
+        self.__number = number
+        self.__salary = salary 
+        self.__bonus = prod_bonus
+        
+        
+        
+        
+    def set_salary(self, salary):
+        self.__salary = salary
+        
+        
+        
+        
+    def set_bonus(self, prod_bonus):
+        self.__bonus = bonus
+        
+        
+        
+        
+    def get_salary(self):
+        return self.__salary
+    
+    
+    
+    def get_bonus(self):
+        return self.__bonus
